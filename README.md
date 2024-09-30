@@ -13,7 +13,7 @@ You may refer to `requirements.txt` to get the exact same dependencies.
 
 Open the terminal to this directory:
 
-![alt text](image-3.png)
+![Screenshot of terminal accessing this directory](https://github.com/user-attachments/assets/ffb7b8eb-0351-4f5f-a298-7c849ba4e0f8)
 
 Execute the following commands to run the respective Python files:
 
@@ -21,7 +21,7 @@ Execute the following commands to run the respective Python files:
 python '.\Part 1 - Alphabet Encryption.py'
 ```
 
-or
+Or
 
 ```powershell
 python '.\Part 2 - RSA Algorithm Encryption.py'
@@ -31,8 +31,8 @@ python '.\Part 2 - RSA Algorithm Encryption.py'
 
 Running the `Part 1` Python file:
 
-![alt text](image-1.png)
+![Screenshot of terminal running Python file](https://github.com/user-attachments/assets/f7a5f3fd-7169-4cc1-96a9-86157ca16be4)
 
 Running the `Part 2` Python file:
 
-![alt text](image-2.png)
+![Screenshot of terminal running Python file](https://github.com/user-attachments/assets/7684bca9-8c4f-48a6-9ea1-cf529044e07f)
