@@ -13,7 +13,7 @@ You may refer to `requirements.txt` to get the exact same dependencies.
 
 Open the terminal to this directory:
 
-![Screenshot of terminal accessing this directory](https://github.com/user-attachments/assets/ffb7b8eb-0351-4f5f-a298-7c849ba4e0f8)
+![Screenshot of terminal accessing this directory](https://github.com/user-attachments/assets/a245c58a-2636-498a-b933-c671b3c67b6f)
 
 Execute the following commands to run the respective Python files:
 
